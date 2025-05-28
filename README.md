@@ -1,10 +1,10 @@
-# Gemini Chat Console Application
+# Gemini Multi-Turn Chat Application
 
-A simple interactive chatbot using the Google Gemini API. This console application allows you to have a multi-turn conversation with Gemini while maintaining context across messages.
+A simple interactive chatbot using the Google Gemini API. This application allows you to have a multi-turn conversation with Gemini while maintaining context across messages.
 
 ## Features
 
-- Interactive console-based chat with Gemini
+- Interactive Chat Application with Gemini AI
 - Maintains conversation context across messages
 - Configurable temperature parameter to control response creativity
 - Support for extended conversations beyond the initial two turns
